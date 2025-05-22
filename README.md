@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jessey259
 - 👀 I’m interested in web developments and career developments.
-- 🌱 I’m currently learning Science.
+- 🌱 I’m currently building frontend projects 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jesseyholomah@gmail.com.
 - 😄 Pronouns: He/Him
